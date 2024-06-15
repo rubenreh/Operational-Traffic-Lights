@@ -9,4 +9,12 @@ Features:
 -Priority Left Turn: Blinking green segment to indicate a priority left turn, enhancing traffic flow and safety.
 -Timers: Integration of timers to manage the duration of each traffic light signal and pedestrian crossing.
 
+roject Components
+
+1. Hardware:
+- Arduino Uno: The brain of the project, responsible for controlling the sonar sensor and processing the data.
+- HC-SR04 Ultrasonic Sensor: A sonar sensor that emits ultrasonic waves and measures the time it takes for the echo to return, thereby calculating the distance to an object.
+- Servo Motor: Used to rotate the sonar sensor, allowing it to scan the environment in a sweeping motion.
+- Other Components: Including a breadboard, jumper wires, and a power supply to connect and power the components.
+
 This 4-way traffic light system project demonstrates the application of VHDL and FPGA technology in creating a functional and efficient traffic management system. The use of state machines, timers, and visual indicators ensures safe and smooth operation at the intersection, highlighting the versatility and power of digital design.
