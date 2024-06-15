@@ -11,7 +11,7 @@ Features:
 
 roject Components
 
-1. Hardware:
+Hardware:
 - Arduino Uno: The brain of the project, responsible for controlling the sonar sensor and processing the data.
 - HC-SR04 Ultrasonic Sensor: A sonar sensor that emits ultrasonic waves and measures the time it takes for the echo to return, thereby calculating the distance to an object.
 - Servo Motor: Used to rotate the sonar sensor, allowing it to scan the environment in a sweeping motion.
