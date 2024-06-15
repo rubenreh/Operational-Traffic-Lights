@@ -2,7 +2,7 @@
 
 This project involves the design and implementation of a 4-way traffic light system using VHDL on an FPGA board with Quartus Prime software. The system is designed to manage traffic flow and pedestrian crossings at a busy intersection, ensuring safe and efficient movement of vehicles and pedestrians.
 
-Features
+Features:
 -Traffic Light Management: Efficient control of traffic light segments (Red, Yellow, Green) with clear and visible signals for drivers.
 -Pedestrian Crossing Requests: Dedicated pushbuttons for North-South and East-West pedestrian crossings with visual indicators (LEDs) to show pending crossings.
 -State Machine Implementation: A state machine with 16 states to handle the complex logic of the traffic light system.
