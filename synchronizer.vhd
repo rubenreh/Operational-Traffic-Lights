@@ -1,4 +1,4 @@
--- Authors: Group 2, Mihir Seth, Ruben Rehal
+-- Authors: Ruben Rehal, Mihir Seth
 
 library ieee;
 use ieee.std_logic_1164.all;
