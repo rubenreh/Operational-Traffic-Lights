@@ -3,8 +3,8 @@
 This repository contains the VHDL code for simulating a traffic light system on an FPGA board. The project utilizes a synchronizer and a holding register to manage and update the traffic light signals based on clock inputs and reset signals. 
 
 ## Authors
-- Mihir Seth
 - Ruben Rehal
+- Mihir Seth
 
 ## Table of Contents
 
