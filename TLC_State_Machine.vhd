@@ -103,5 +103,15 @@ begin
       when S5 =>
         output1 <= '0';
         output2 <= '0';
-
-
+      when S6 =>
+        output1 <= '0';
+        output2 <= '1';
+      when S7 =>
+        output1 <= '0';
+        output2 <= '0';
+      when others =>
+        output1 <= '0';
+        output2 <= '0';
+  END CASE;
+END PROCESS;
+END ARCHITECTURE SM;
