@@ -21,15 +21,15 @@ The Traffic Light Simulation project aims to demonstrate a simple yet effective 
 
 ## Hardware Requirements
 
-- FPGA board (e.g., Altera DE2, Xilinx Spartan, etc.)
+- FPGA board (Altera)
 - Clock signal source
 - LEDs to represent traffic lights
 - Push buttons for reset and manual controls
 
 ## Software Requirements
 
-- VHDL-compatible IDE (e.g., Quartus Prime, Xilinx Vivado)
-- Simulation tool (e.g., ModelSim)
+- VHDL-compatible IDE (Quartus Prime)
+- Simulation tool (ModelSim)
 - Git for version control
 
 ## Files Description
